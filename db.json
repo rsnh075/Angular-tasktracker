@@ -1,28 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "May 5th at 2:30pm",
-      "reminder": false
+      "text": "Mijn afspraak (3)",
+      "day": "maandag 10 december 10u",
+      "reminder": false,
+      "id": 6
     },
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "May 6th at 2:30pm",
-      "reminder": false
-    },
-    {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
-    },
-    {
-      "text": "Mijn afspraak",
-      "day": "morgen",
+      "text": "Dokter",
+      "day": "dinsdag 11 december",
       "reminder": true,
-      "id": 4
+      "id": 7
     }
   ]
 }
